@@ -8,6 +8,7 @@
     <title>Welcome</title>
 </head>
 <body>
-    <h1>Welcome Hello Page</h1>
+    <h1>${helloUser} , his age is ${age}</h1>
+    <h1>${welcomeMessage}</h1>
 </body>
 </html>
